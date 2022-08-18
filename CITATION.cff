@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this materila, please cite it as below."
-authors:
-  - family-names: MAGALLANES REYES
-    given-names: Jose Manuel
-title: "Python for Pre processing"
-version: v.1.0.0
-doi: 10.5281/zenodo.7005288
-date-released: 2022-08-18
