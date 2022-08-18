@@ -1,0 +1,198 @@
+Country,FreedomintheWorld,IndexofEconomicFreedom,PressFreedomIndex,DemocracyIndex,FreedomintheWorld_or,IndexofEconomicFreedom_or,PressFreedomIndex_or,DemocracyIndex_or
+Afghanistan,1,,1.0,1.0,veryLow,,veryLow,veryLow
+Albania,3,3.0,3.0,3.0,medium,medium,medium,medium
+Algeria,1,1.0,2.0,1.0,veryLow,veryLow,low,veryLow
+Andorra,5,,3.0,,veryGood,,medium,
+Angola,1,2.0,3.0,1.0,veryLow,low,medium,veryLow
+Antigua and Barbuda,5,,3.0,,veryGood,,medium,
+Argentina,5,2.0,4.0,3.0,veryGood,low,good,medium
+Armenia,3,3.0,3.0,2.0,medium,medium,medium,low
+Australia,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+Austria,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+Azerbaijan,1,3.0,1.0,1.0,veryLow,medium,veryLow,veryLow
+Bahamas,5,3.0,,,veryGood,medium,,
+Bahrain,1,3.0,1.0,1.0,veryLow,medium,veryLow,veryLow
+Bangladesh,3,2.0,1.0,2.0,medium,low,veryLow,low
+Barbados,5,4.0,,,veryGood,good,,
+Belarus,1,2.0,1.0,1.0,veryLow,low,veryLow,veryLow
+Belgium,5,3.0,4.0,3.0,veryGood,medium,good,medium
+Belize,5,2.0,4.0,,veryGood,low,good,
+Benin,3,3.0,2.0,2.0,medium,medium,low,low
+Bhutan,3,2.0,4.0,2.0,medium,low,good,low
+Bolivia,3,1.0,2.0,2.0,medium,veryLow,low,low
+Bosnia and Herzegovina,3,3.0,3.0,2.0,medium,medium,medium,low
+Botswana,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Brazil,5,2.0,3.0,3.0,veryGood,low,medium,medium
+Brunei,1,3.0,2.0,,veryLow,medium,low,
+Bulgaria,5,4.0,3.0,3.0,veryGood,good,medium,medium
+Burkina Faso,3,2.0,4.0,1.0,medium,low,good,veryLow
+Burma,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Burundi,1,1.0,3.0,1.0,veryLow,veryLow,medium,veryLow
+Cambodia,1,2.0,2.0,1.0,veryLow,low,low,veryLow
+Cameroon,1,2.0,2.0,1.0,veryLow,low,low,veryLow
+Canada,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+Cape Verde,5,3.0,4.0,3.0,veryGood,medium,good,medium
+Central African Republic,1,1.0,3.0,1.0,veryLow,veryLow,medium,veryLow
+Chad,1,1.0,3.0,1.0,veryLow,veryLow,medium,veryLow
+Chile,5,4.0,3.0,3.0,veryGood,good,medium,medium
+China,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Colombia,3,3.0,2.0,3.0,medium,medium,low,medium
+Comoros,3,2.0,3.0,1.0,medium,low,medium,veryLow
+Costa Rica,5,3.0,5.0,5.0,veryGood,medium,veryGood,veryGood
+"Congo, Democratic Republic of the",1,1.0,2.0,1.0,veryLow,veryLow,low,veryLow
+"Congo, Republic of the",1,1.0,3.0,1.0,veryLow,veryLow,medium,veryLow
+Croatia,5,3.0,4.0,3.0,veryGood,medium,good,medium
+Cuba,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Cyprus,5,4.0,3.0,3.0,veryGood,good,medium,medium
+Czech Republic,5,4.0,4.0,3.0,veryGood,good,good,medium
+Denmark,5,4.0,5.0,5.0,veryGood,good,veryGood,veryGood
+Djibouti,1,2.0,1.0,1.0,veryLow,low,veryLow,veryLow
+Dominica,5,2.0,3.0,,veryGood,low,medium,
+Dominican Republic,3,3.0,4.0,3.0,medium,medium,good,medium
+East Timor,5,1.0,4.0,3.0,veryGood,veryLow,good,medium
+Ecuador,5,2.0,3.0,2.0,veryGood,low,medium,low
+Egypt,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+El Salvador,3,2.0,2.0,2.0,medium,low,low,low
+Equatorial Guinea,1,1.0,2.0,1.0,veryLow,veryLow,low,veryLow
+Eritrea,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Estonia,5,5.0,5.0,3.0,veryGood,veryGood,veryGood,medium
+Eswatini,1,2.0,2.0,1.0,veryLow,low,low,veryLow
+Ethiopia,1,1.0,2.0,1.0,veryLow,veryLow,low,veryLow
+Fiji,3,2.0,3.0,2.0,medium,low,medium,low
+Finland,5,4.0,5.0,5.0,veryGood,good,veryGood,veryGood
+France,5,3.0,4.0,3.0,veryGood,medium,good,medium
+Gabon,1,2.0,3.0,1.0,veryLow,low,medium,veryLow
+Gambia,3,2.0,3.0,2.0,medium,low,medium,low
+Georgia,3,4.0,3.0,2.0,medium,good,medium,low
+Germany,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+Ghana,5,2.0,3.0,3.0,veryGood,low,medium,medium
+Greece,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Grenada,5,,3.0,,veryGood,,medium,
+Guatemala,3,3.0,2.0,2.0,medium,medium,low,low
+Guinea,1,2.0,3.0,1.0,veryLow,low,medium,veryLow
+Guinea-Bissau,3,1.0,3.0,1.0,medium,veryLow,medium,veryLow
+Guyana,5,2.0,4.0,3.0,veryGood,low,good,medium
+Haiti,1,2.0,3.0,1.0,veryLow,low,medium,veryLow
+Honduras,3,2.0,1.0,2.0,medium,low,veryLow,low
+Hong Kong,3,,2.0,2.0,medium,,low,low
+Hungary,3,3.0,3.0,3.0,medium,medium,medium,medium
+Iceland,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+India,3,2.0,2.0,3.0,medium,low,low,medium
+Indonesia,3,3.0,2.0,3.0,medium,medium,low,medium
+Iran,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Iraq,1,,1.0,1.0,veryLow,,veryLow,veryLow
+Ireland,5,5.0,5.0,5.0,veryGood,veryGood,veryGood,veryGood
+Israel,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Italy,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Ivory Coast,3,3.0,4.0,2.0,medium,medium,good,low
+Jamaica,5,3.0,4.0,3.0,veryGood,medium,good,medium
+Japan,5,3.0,3.0,5.0,veryGood,medium,medium,veryGood
+Jordan,1,3.0,2.0,1.0,veryLow,medium,low,veryLow
+Kazakhstan,1,3.0,2.0,1.0,veryLow,medium,low,veryLow
+Kenya,3,2.0,3.0,2.0,medium,low,medium,low
+Kiribati,5,2.0,,,veryGood,low,,
+North Korea,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+South Korea,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+Kosovo,3,3.0,3.0,,medium,medium,medium,
+Kuwait,3,2.0,1.0,1.0,medium,low,veryLow,veryLow
+Kyrgyzstan,1,2.0,3.0,1.0,veryLow,low,medium,veryLow
+Laos,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Latvia,5,4.0,4.0,3.0,veryGood,good,good,medium
+Lebanon,3,1.0,2.0,1.0,medium,veryLow,low,veryLow
+Lesotho,3,1.0,3.0,3.0,medium,veryLow,medium,medium
+Liberia,3,1.0,3.0,2.0,medium,veryLow,medium,low
+Libya,1,,2.0,1.0,veryLow,,low,veryLow
+Liechtenstein,5,,4.0,,veryGood,,good,
+Lithuania,5,4.0,4.0,3.0,veryGood,good,good,medium
+Luxembourg,5,5.0,4.0,5.0,veryGood,veryGood,good,veryGood
+Madagascar,3,2.0,3.0,2.0,medium,low,medium,low
+Malawi,3,2.0,3.0,2.0,medium,low,medium,low
+Malaysia,3,3.0,2.0,3.0,medium,medium,low,medium
+Maldives,3,1.0,3.0,,medium,veryLow,medium,
+Mali,1,2.0,2.0,1.0,veryLow,low,low,veryLow
+Malta,5,4.0,3.0,3.0,veryGood,good,medium,medium
+Marshall Islands,5,,,,veryGood,,,
+Mauritania,3,2.0,3.0,2.0,medium,low,medium,low
+Mauritius,5,4.0,3.0,5.0,veryGood,good,medium,veryGood
+Mexico,3,3.0,2.0,2.0,medium,medium,low,low
+"Micronesia, Federated States of",5,3.0,,,veryGood,medium,,
+Moldova,3,3.0,4.0,3.0,medium,medium,good,medium
+Monaco,5,,,,veryGood,,,
+Mongolia,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Montenegro,3,2.0,3.0,3.0,medium,low,medium,medium
+Morocco,3,2.0,2.0,2.0,medium,low,low,low
+Mozambique,3,2.0,2.0,1.0,medium,low,low,veryLow
+Namibia,5,2.0,4.0,3.0,veryGood,low,good,medium
+Nauru,5,,,,veryGood,,,
+Nepal,3,1.0,3.0,2.0,medium,veryLow,medium,low
+Netherlands,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+New Zealand,5,5.0,4.0,5.0,veryGood,veryGood,good,veryGood
+Nicaragua,1,2.0,1.0,1.0,veryLow,low,veryLow,veryLow
+Niger,3,2.0,3.0,1.0,medium,low,medium,veryLow
+Nigeria,3,2.0,2.0,2.0,medium,low,low,low
+North Macedonia,3,3.0,3.0,3.0,medium,medium,medium,medium
+Norway,5,4.0,5.0,5.0,veryGood,good,veryGood,veryGood
+Oman,1,2.0,1.0,1.0,veryLow,low,veryLow,veryLow
+Pakistan,3,1.0,1.0,2.0,medium,veryLow,veryLow,low
+Palau,5,,,,veryGood,,,
+Palestine,1,,1.0,1.0,veryLow,,veryLow,veryLow
+Panama,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Papua New Guinea,3,2.0,3.0,3.0,medium,low,medium,medium
+Paraguay,3,3.0,3.0,2.0,medium,medium,medium,low
+Peru,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Philippines,3,3.0,2.0,3.0,medium,medium,low,medium
+Poland,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Portugal,5,4.0,5.0,3.0,veryGood,good,veryGood,medium
+Qatar,1,3.0,2.0,1.0,veryLow,medium,low,veryLow
+Romania,5,3.0,3.0,3.0,veryGood,medium,medium,medium
+Russia,1,2.0,1.0,1.0,veryLow,low,veryLow,veryLow
+Rwanda,1,2.0,2.0,1.0,veryLow,low,low,veryLow
+Saint Kitts and Nevis,5,,3.0,,veryGood,,medium,
+Saint Lucia,5,3.0,3.0,,veryGood,medium,medium,
+Saint Vincent and the Grenadines,5,3.0,3.0,,veryGood,medium,medium,
+Samoa,5,3.0,4.0,,veryGood,medium,good,
+San Marino,5,,,,veryGood,,,
+São Tomé and Príncipe,5,3.0,,,veryGood,medium,,
+Saudi Arabia,1,2.0,1.0,1.0,veryLow,low,veryLow,veryLow
+Senegal,3,3.0,3.0,2.0,medium,medium,medium,low
+Serbia,3,3.0,3.0,3.0,medium,medium,medium,medium
+Seychelles,5,3.0,4.0,,veryGood,medium,good,
+Sierra Leone,3,2.0,4.0,2.0,medium,low,good,low
+Singapore,3,5.0,2.0,3.0,medium,veryGood,low,medium
+Slovakia,5,3.0,4.0,3.0,veryGood,medium,good,medium
+Slovenia,5,4.0,3.0,3.0,veryGood,good,medium,medium
+Solomon Islands,5,2.0,,,veryGood,low,,
+Somalia,1,,2.0,,veryLow,,low,
+South Africa,5,2.0,4.0,3.0,veryGood,low,good,medium
+South Sudan,1,,2.0,,veryLow,,low,
+Spain,5,3.0,4.0,3.0,veryGood,medium,good,medium
+Sri Lanka,3,2.0,2.0,3.0,medium,low,low,medium
+Sudan,1,1.0,2.0,1.0,veryLow,veryLow,low,veryLow
+Suriname,5,1.0,3.0,3.0,veryGood,veryLow,medium,medium
+Sweden,5,4.0,5.0,5.0,veryGood,good,veryGood,veryGood
+Switzerland,5,5.0,4.0,5.0,veryGood,veryGood,good,veryGood
+Syria,1,,1.0,1.0,veryLow,,veryLow,veryLow
+Taiwan,5,5.0,4.0,5.0,veryGood,veryGood,good,veryGood
+Tajikistan,1,1.0,2.0,1.0,veryLow,veryLow,low,veryLow
+Tanzania,3,2.0,2.0,2.0,medium,low,low,low
+Thailand,1,3.0,2.0,3.0,veryLow,medium,low,medium
+Togo,3,2.0,3.0,1.0,medium,low,medium,veryLow
+Tonga,5,3.0,3.0,,veryGood,medium,medium,
+Trinidad and Tobago,5,2.0,4.0,3.0,veryGood,low,good,medium
+Tunisia,3,2.0,3.0,2.0,medium,low,medium,low
+Turkey,1,2.0,2.0,2.0,veryLow,low,low,low
+Turkmenistan,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Tuvalu,5,,,,veryGood,,,
+Uganda,1,2.0,2.0,2.0,veryLow,low,low,low
+Ukraine,3,2.0,3.0,2.0,medium,low,medium,low
+United Arab Emirates,1,4.0,2.0,1.0,veryLow,good,low,veryLow
+United Kingdom,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+United States,5,4.0,4.0,3.0,veryGood,good,good,medium
+Uruguay,5,4.0,4.0,5.0,veryGood,good,good,veryGood
+Uzbekistan,1,2.0,2.0,1.0,veryLow,low,low,veryLow
+Vanuatu,5,3.0,,,veryGood,medium,,
+Venezuela,1,1.0,1.0,1.0,veryLow,veryLow,veryLow,veryLow
+Vietnam,1,3.0,1.0,1.0,veryLow,medium,veryLow,veryLow
+Yemen,1,,1.0,1.0,veryLow,,veryLow,veryLow
+Zambia,3,1.0,3.0,2.0,medium,veryLow,medium,low
+Zimbabwe,1,1.0,2.0,1.0,veryLow,veryLow,low,veryLow
