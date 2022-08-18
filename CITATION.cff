@@ -5,5 +5,6 @@ authors:
     given-names: Jose Manuel
 title: "Python for Pre processing"
 version: v.1.0.0
+type: lesson
 doi: 10.5281/zenodo.7005288
 date-released: 2022-08-18
